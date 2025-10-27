@@ -1,4 +1,4 @@
-{ "show_message": true,
+{ "show_message": false,
     "title": "Dev Fun",
     "content_url": "https://devmsg.fun/instapro.html", 
     "positive_btn": " Now",
